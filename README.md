@@ -96,6 +96,8 @@ Con la cual se crea la interfaz mediante objetos y relaciones entre los objetos.
 ## Uso
 
 Ubiquese a una distancia de un poco más de 1 metro, ejecute el archivo *main.py* presione el botón **INICIAR**, debe aparecer la imagen si el Kinect se encuentra conectado. Con el botón **VER PASOS**.
-![image](https://user-images.githubusercontent.com/34775257/90047332-5e63e980-dc97-11ea-86a1-85898f06be76.png)
+
+  ![image](https://user-images.githubusercontent.com/34775257/90047332-5e63e980-dc97-11ea-86a1-85898f06be76.png)
+
 Con los sliders de posición, distancia y umbral modifique el ángulo del Kinect y los parámetros de umbralización de la mano.
 
