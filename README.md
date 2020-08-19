@@ -93,6 +93,10 @@ Con el cual se genera e identifica la nota de acuerdo a la posición. Encontrada
 - ventana_Piano(): 
 Con la cual se crea la interfaz mediante objetos y relaciones entre los objetos. Encontrada en el archivo class_app.py
 
+### Diagrama de flujo
+El diagrama de flujo de la presente implementación se muestra en la siguiente figura:
+![Proyecto de visión final](https://user-images.githubusercontent.com/34775257/90649607-8952be00-e200-11ea-917f-4c2764ca8ec9.jpg)
+
 ## Uso
 
 Ubiquese a una distancia de un poco más de 1 metro, ejecute el archivo *main.py* presione el botón **INICIAR**, debe aparecer la imagen si el Kinect se encuentra conectado. Con el botón **VER PASOS**.
